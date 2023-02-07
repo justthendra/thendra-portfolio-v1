@@ -1,0 +1,41 @@
+#animasyon {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#hakkımda {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#thendra {
+    color: #009A14;
+}
+
+#copy { 
+    font-size: 17px;
+    margin-left: -680px;
+    color: #6B6B6B;
+}
+
+#made {
+    margin-left: -900px;
+    margin-top: 5px;
+    color: #6B6B6B;
+}
+
+#thendralink {
+    color: #6B6B6B;
+}
+
+#thendralink:hover {
+    color: white;
+}
+
+#ig {
+    margin-left: -110px;
+}
+
+#span {
+    color: #018104;
+}
